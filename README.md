@@ -1,6 +1,6 @@
 # Olá, eu sou Eduardo Citron!
 
-Sou estudante de **Desenvolvimento de Sistemas** integrado ao Ensino Médio. Estou construindo uma base sólida para atuar como Desenvolvedor de Software.
+Sou estudante de **Desenvolvimento de Sistemas** integrado ao Ensino Médio no CEEP Pedro Boareto Neves, Cascavel, Paraná. Estou construindo uma base sólida para atuar como Desenvolvedor de Software.
 
 Atualmente, concilio os estudos formais com projetos práticos para evoluir minhas habilidades em desenvolvimento backend e web, focado em aprender os padrões de mercado.
 
