@@ -6,7 +6,7 @@ Atualmente, concilio os estudos formais com projetos práticos para evoluir minh
 
 ---
 
-### 🛠️ Tecnologias e Conhecimentos
+###  Tecnologias e Conhecimentos
 
 * **Backend & Lógica:** Node.js | Python | C (Conceitos estruturais e fundamentos)
 * **Banco de Dados:** Modelagem de Dados | Iniciando estudos em SQL
@@ -15,7 +15,7 @@ Atualmente, concilio os estudos formais com projetos práticos para evoluir minh
 
 ---
 
-### 🚀 Objetivos Atuais
+###  Objetivos Atuais
 
 - [ ] Aprofundar os conhecimentos em consultas e gerenciamento de bancos de dados relacionais (SQL).
 - [ ] Construir as primeiras APIs completas utilizando Node.js e Python para rechear meu portfólio.
@@ -24,7 +24,7 @@ Atualmente, concilio os estudos formais com projetos práticos para evoluir minh
 
 ---
 
-### 📬 Contatos
+###  Contatos
 
 Se você quiser conversar sobre tecnologia, startups ou oportunidades, entre em contato comigo:
 
